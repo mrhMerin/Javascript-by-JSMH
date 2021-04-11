@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.headline{
+    color: antiquewhite;
+    background: black;
+    padding: 10px;
+}
+.headline h3{
+    width: 400px;
+    margin: auto;
+    font-weight: 700;
+    font-size: 30px;
+}
